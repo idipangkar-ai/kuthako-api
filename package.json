@@ -1,0 +1,15 @@
+{
+  "name": "kuthako-api",
+  "version": "1.0.0",
+  "description": "Description of KuthaKo-Chat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dipangkar Hajong",
+  "license": "ISC",
+  "type": "commonjs"
+}
